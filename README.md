@@ -1,2 +1,2 @@
 # MyFirstRepo
-it is my repo 
+Hello this is my first GitHub edit.
